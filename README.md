@@ -2,7 +2,7 @@
 
 Bộ **Claude Code / Agent skills** dùng chung cho team Zalopay. Mỗi skill là một folder trong [`skills/`](skills/), đóng gói quy trình + tri thức để agent làm việc nhất quán theo chuẩn của team.
 
-> **Nội bộ.** Repo private [`zlp-pd/zlp-ticket`](https://github.com/zlp-pd/zlp-ticket), dùng trong tổ chức VNG / Zalopay. Xem [LICENSE](LICENSE).
+> **Nội bộ.** Repo private [`zlp-pd/zlp-ticket`](https://github.com/zlp-pd/zlp-ticket), dùng trong Zalopay. 
 
 ## Skills hiện có
 
